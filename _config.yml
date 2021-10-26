@@ -16,12 +16,10 @@
 title: JD
 email: one@territorium.anonaddy.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Just a personal GitHub Page.
 twitter_username: username
 github_username: jmsdao
-minimal_mistakes_skin: default
+minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: false
 
 # Build settings
@@ -31,7 +29,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/ACT # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -51,7 +49,7 @@ include:
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
+  - jekyll-sitem
   - jekyll-gist
   # - jekyll-feed
   - jemoji
@@ -79,13 +77,16 @@ footer:
   #     url: "https://twitter.com/"
   #   - label: "GitHub"
   #     icon: "fab fa-fw fa-github"
-  #     url: "https://github.com/"
+  #     url: "https://jmsdao.github.com/"
   #   - label: "Instagram"
   #     icon: "fab fa-fw fa-instagram"
   #     url: "https://instagram.com/"
 
+atom_feed: # Hide the RSS icon in the footer
+  hide: true
+
 defaults:
-  # _posts
+  # _posts  
   - scope:
       path: ""
       type: posts
