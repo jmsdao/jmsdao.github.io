@@ -3,6 +3,7 @@ title: "About"
 permalink: /about/
 layout: single
 author_profile: true
+classes: wide
 
 last_modified_at: 2021-10-28T16:20:02-05:00
 ---

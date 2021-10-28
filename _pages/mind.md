@@ -7,4 +7,4 @@ author_profile: true
 last_modified_at: 2021-10-28T16:20:02-05:00
 ---
 
-Mind stuff goes here.
+Below is a non-exhaustive list of information sources that have influenced my thinking.

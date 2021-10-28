@@ -1,6 +1,6 @@
 main:
-  # - title: "Posts"
-  #   url: /posts/
+  # - title: "Blog"
+  #   url: /blog/
   # - title: "Categories"
   #   url: /categories/
   # - title: "Tags"
@@ -11,3 +11,5 @@ main:
     url: /cv/
   - title: "Mind Bibliography"
     url: /mind/
+  - title: "Fitness"
+    url: /fitness/
