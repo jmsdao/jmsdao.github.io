@@ -1,6 +1,8 @@
 ---
-permalink: /mind/
 title: "Mind Bibliography"
+permalink: /mind/
+layout: single
+author_profile: true
 ---
 
-Ideas go here.
+Mind stuff goes here.
