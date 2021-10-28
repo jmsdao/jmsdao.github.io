@@ -9,3 +9,5 @@ main:
     url: /about/
   - title: "CV"
     url: /cv/
+  - title: "Mind Bibliography"
+    url: /mind/
