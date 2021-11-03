@@ -1,18 +1,18 @@
 ---
-title: "Splash Page"
+title: "Hi there, I'm James"
 layout: splash
 permalink: /
 hidden: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/under-construction.jpg
+  overlay_image: /assets/images/home-header.jpg
   actions:
     - label: "About"
       url: "/about/"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+    - label: "CV"
+      url: "/cv/"
+excerpt: "I'm an aspiring bioinformatician, passionate about understanding the science of increasing healthy lifespan."
 
 ---
 
