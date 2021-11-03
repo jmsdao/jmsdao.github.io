@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "James Dao"
   avatar : "/assets/images/temp-bio-photo.png"
-  bio    : "Page under construction. Come back another time."
+  bio    : "Leveraging bioinformatics and machine learning to understand things better"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"

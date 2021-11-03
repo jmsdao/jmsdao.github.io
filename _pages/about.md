@@ -16,7 +16,7 @@ Since then, various [intellectual influences](https://jmsdao.github.io/mind/) ha
 
 Aside from the casual "try to do good for the world" stuff, I'm also into fitness and weird self-improvement.
 
-Feel free to contact me at [`public@territorium.anonaddy.com`](mailto:public@territorium.anonaddy.com) especially if:
+Feel free to contact me at [public@territorium.anonaddy.com](mailto:public@territorium.anonaddy.com) especially if:
 - You wish to share any leads related to my current areas of focus
 - You think some form of collaboration/correspondence is mutually beneficial
 - You wish to correct me on a mistake I made in one of my writings (please do!)
