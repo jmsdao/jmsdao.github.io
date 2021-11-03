@@ -10,7 +10,7 @@ last_modified_at: 2021-11-02
 <style>
 p,
 li {
-  font-size: 0.8em;
+  font-size: 0.4em;
 }
 </style>
 
