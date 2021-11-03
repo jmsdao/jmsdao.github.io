@@ -7,13 +7,6 @@ author_profile: true
 last_modified_at: 2021-11-02
 ---
 
-<style>
-p,
-li {
-  font-size: 0.4em;
-}
-</style>
-
 Below is a non-exhaustive list of information sources that have influenced my thinking.
 
 I do not necessarily endorse or agree with everything these sources have put out, nor have I necessarily consumed all their content. Beware the [association fallacy](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Guilt-by-Association).
