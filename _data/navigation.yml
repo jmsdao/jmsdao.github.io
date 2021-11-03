@@ -11,5 +11,5 @@ main:
     url: /cv/
   - title: "Mind Bibliography"
     url: /mind/
-  - title: "Fitness"
-    url: /fitness/
+  # - title: "Misc"
+  #   url: /misc/
