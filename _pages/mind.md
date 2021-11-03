@@ -1,7 +1,7 @@
 ---
 title: "Mind Bibliography"
 permalink: /mind/
-layout: single_custom
+layout: single
 author_profile: true
 
 last_modified_at: 2021-11-02
