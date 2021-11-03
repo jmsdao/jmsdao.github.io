@@ -1,17 +1,11 @@
 ---
 title: "Mind Bibliography"
 permalink: /mind/
-layout: single
+layout: single_custom
 author_profile: true
 
-last_modified_at: 2021-11-03
+last_modified_at: 2021-11-02
 ---
-
-body {
-  font-size: 100%;
-}
-
-<body>
 
 Below is a non-exhaustive list of information sources that have influenced my thinking.
 
@@ -74,5 +68,3 @@ Video-Focused Content:
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown/videos)
 - [Up and Atom](https://www.youtube.com/c/UpandAtom/videos)
 - [Computerphile](https://www.youtube.com/user/Computerphile/videos) / [Numberphile](https://www.youtube.com/user/numberphile/videos)
-
-</body>
