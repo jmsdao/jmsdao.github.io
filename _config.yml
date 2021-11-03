@@ -67,7 +67,7 @@ author:
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
     - label: "Email"
-      icon: "fas fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:public@territorium.anonaddy.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
