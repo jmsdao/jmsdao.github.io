@@ -16,8 +16,7 @@ intro:
 
 ---
 
-# Title 1
-Some words yo:
-- Bullet point
-- Another bullet
-  - Sub-bullet
+# Currently focused on...
+- Working a project with the Bioinformatics Research Network
+- Learning deep learning via Full Stack Deep Learning
+- Looking for job opportunities in the longevity space

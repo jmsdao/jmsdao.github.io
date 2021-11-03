@@ -5,14 +5,14 @@
 @import "minimal-mistakes";
 
 html {
-  font-size: 0.7em; // change to whatever
+  font-size: 1em; // change to whatever
 
   @include breakpoint($medium) {
-    font-size: 0.8em; // change to whatever
+    font-size: 1em; // change to whatever
   }
 
   @include breakpoint($large) {
-    font-size: 0.9em; // change to whatever
+    font-size: 1em; // change to whatever
   }
 
   @include breakpoint($x-large) {
