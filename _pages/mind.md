@@ -7,7 +7,6 @@ author_profile: true
 last_modified_at: 2021-11-02
 ---
 
-<body style="font-size:0.7em">
 Below is a non-exhaustive list of information sources that have influenced my thinking.
 
 I do not necessarily endorse or agree with everything these sources have put out, nor have I necessarily consumed all their content. Beware the [association fallacy](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Guilt-by-Association).
@@ -69,4 +68,3 @@ Video-Focused Content:
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown/videos)
 - [Up and Atom](https://www.youtube.com/c/UpandAtom/videos)
 - [Computerphile](https://www.youtube.com/user/Computerphile/videos) / [Numberphile](https://www.youtube.com/user/numberphile/videos)
-</body>
