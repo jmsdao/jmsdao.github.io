@@ -166,7 +166,6 @@
 
 .author__name {
   margin: 0;
-  color: #a9a9a9;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -180,7 +179,7 @@
 
 .author__bio {
   margin: 0;
-  color: #a9a9a9;
+  color: #4a4a4a;
 
   @include breakpoint($large) {
     margin-top: 10px;
