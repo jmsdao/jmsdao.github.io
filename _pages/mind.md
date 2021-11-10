@@ -9,7 +9,7 @@ last_modified_at: 2021-11-02
 
 Below is a non-exhaustive list of information sources that have influenced my thinking.
 
-I do not necessarily endorse or agree with everything these sources have put out, nor have I necessarily consumed all their content. Beware the [association fallacy](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Guilt-by-Association).
+I do not necessarily wholly endorse or agree with everything these sources have put out, nor have I necessarily consumed all their content. Beware the [association fallacy](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Guilt-by-Association).
 
 ### Books
 - ["Tao Te Ching"](https://terebess.hu/english/tao/mitchell.html) - Lao Tzu
@@ -60,7 +60,7 @@ I do not necessarily endorse or agree with everything these sources have put out
 
 ### Video-Focused Content:
 - [Pursuit of Wonder](https://www.youtube.com/c/PursuitofWonder/videos)
-- [Kurzgasagt](https://www.youtube.com/c/inanutshell/videos)
+- [Kurzgesagt](https://www.youtube.com/c/inanutshell/videos)
 - [exurb1a](https://www.youtube.com/c/Exurb1a/videos)
 - [CGP Grey](https://www.youtube.com/watch?v=rStL7niR7gs)
 - [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos)
