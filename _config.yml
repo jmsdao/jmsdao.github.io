@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "James Dao"
   avatar : "/assets/images/red-slight-smile.jpg"
-  bio    : "Leveraging bioinformatics and machine learning to understand things better"
+  bio    : "Leveraging bioinformatics and machine learning to understand the world better"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
