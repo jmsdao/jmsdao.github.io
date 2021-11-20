@@ -134,7 +134,7 @@
   }
 
   img {
-    max-width: 150px;
+    max-width: 200px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -179,7 +179,7 @@
 
 .author__bio {
   margin: 0;
-  font-size: $type-size-7;
+  font-size: 12px;
   color: #888888;
 
   @include breakpoint($large) {
