@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 classes: wide
 
-last_modified_at: 2021-11-03
+last_modified_at: 2021-11-20
 ---
 
 Regardless of [my current areas of focus](https://jmsdao.github.io/), my ultimate mission is to meaningfully participate in the collective project of stewarding humanity towards enabling flourishing and well-being for all.
@@ -14,7 +14,7 @@ For most my life, I was looking at my feet and taking small, comfortable steps. 
 
 Since then, various [intellectual influences](https://jmsdao.github.io/mind/) have radically shaped how I view the world, and how I orient and find my place in the world.
 
-Aside from the casual "try to do good for the world" stuff, I'm also into fitness and weird self-improvement.
+Aside from the casual "try to do good for the world" stuff, I'm also into [fitness](https://jmsdao.github.io/fitness/) and weird self-improvement.
 
 ### Contact
 
