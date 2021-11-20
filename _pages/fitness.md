@@ -7,7 +7,7 @@ author_profile: true
 last_modified_at: 2021-11-20
 ---
 
-<div class="notice">
+<div class="notice--info">
   <h4>Currently working on</h4>
   <ul>
     <li>Reducing body fat percentage</li>
