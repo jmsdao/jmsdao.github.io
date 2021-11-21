@@ -19,4 +19,4 @@ excerpt: "I'm an aspiring bioinformatician, passionate about understanding the s
 # Currently focused on...
 - Working on a project with the [Bioinformatics Research Network](https://www.bio-net.dev/)
 - Learning deep learning via [Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/)
-- Looking for job opportunities in the [longevity space](https://www.ldeming.com/longevityfaq)
+- Looking for job opportunities in bioninformatics, ideally in the [longevity space](https://www.ldeming.com/longevityfaq)
