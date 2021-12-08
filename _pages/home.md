@@ -18,5 +18,6 @@ excerpt: "I'm an aspiring bioinformatician, passionate about understanding the s
 
 # Currently focused on...
 - Working on a project with the [Bioinformatics Research Network](https://www.bio-net.dev/)
-- Learning deep learning via [Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/)
+- Learning scRNA-Seq analysis via [BIG Bioinformatics](https://www.bigbioinformatics.org/intro-to-scrnaseq)
+- [Solving problem sets](https://github.com/jmsdao/intro-biostats-solutions) from Chap Le's "Introductory Biostatistics"
 - Looking for job opportunities in bioinformatics, ideally in the [longevity space](https://www.ldeming.com/longevityfaq)
