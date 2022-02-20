@@ -17,7 +17,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: JD
-email: public@territorium.anonaddy.com
+email: james.kn.dao@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Just a personal GitHub Page.
 twitter_username: username
@@ -71,7 +71,7 @@ author:
     #   url: "https://twitter.com/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:public@territorium.anonaddy.com"
+      url: "mailto:james.kn.dao@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jmsdao/"
