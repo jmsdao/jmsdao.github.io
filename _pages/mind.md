@@ -4,7 +4,7 @@ permalink: /mind/
 layout: single
 author_profile: true
 
-last_modified_at: 2021-11-02
+last_modified_at: 2021-03-03
 ---
 
 Below is a non-exhaustive list of information sources that have influenced my thinking.
@@ -34,7 +34,6 @@ I do not necessarily wholly endorse or agree with everything these sources have 
 - [Spencer Greenberg](https://www.spencergreenberg.com/)
 - [Nick Bostrom](https://www.nickbostrom.com/)
 - [Anders Sandberg](https://aleph.se/andart2/about/)
-- [David Sinclair](https://sinclair.hms.harvard.edu/people/david-sinclair)
 - [John Vervaeke](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
 - [Diogenes](https://penelope.uchicago.edu/~grout/encyclopaedia_romana/greece/hetairai/diogenes.html) / [Marcus Aurelius](http://classics.mit.edu/Antoninus/meditations.html) / [Seneca](https://tim.blog/2017/07/06/tao-of-seneca/)
 - [Donald Hoffman](https://www.youtube.com/watch?v=ZTewDI8mlzE)
