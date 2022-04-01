@@ -17,7 +17,6 @@ excerpt: "I'm an aspiring bioinformatician, passionate about understanding the s
 ---
 
 # Currently focused on...
-- Working on a project with the [Bioinformatics Research Network](https://www.bio-net.dev/)
-- Learning scRNA-Seq analysis via [BIG Bioinformatics](https://www.bigbioinformatics.org/intro-to-scrnaseq)
-- [Solving problem sets](https://github.com/jmsdao/intro-biostats-solutions) from Chap Le's "Introductory Biostatistics"
+- Building LiverDB for [The Lab of Cardiovascular Bioinformatics](http://heartlncrna.github.io/) (analogous to [FibroDB](https://github.com/Bishop-Laboratory/FibroDB))
+- Doing short-term contract work for a longevity organization (in stealth mode)
 - Looking for job opportunities in bioinformatics, ideally in the [longevity space](https://www.ldeming.com/longevityfaq)
