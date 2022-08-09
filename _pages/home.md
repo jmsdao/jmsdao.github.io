@@ -19,3 +19,5 @@ excerpt: "I'm a bioinformatician, passionate about understanding the science of 
 # Currently focused on...
 - Doing short-term contract work for a longevity organization (in stealth mode)
 - Working on open-access projects with the [Bioinformatics Research Network](https://www.bioresnet.org/)
+- Learning MLOps via [DataTalk's MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
+
