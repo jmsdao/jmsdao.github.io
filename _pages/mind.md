@@ -43,7 +43,6 @@ I do not necessarily wholly endorse or agree with everything these sources have 
 - [Less Wrong](https://www.lesswrong.com/)
 - [Fantastic Anachronism](https://fantasticanachronism.com/)
 - [Nintil](https://nintil.com/)
-- [Guzey](https://guzey.com/)
 - [Cold Takes](https://www.cold-takes.com/)
 - [Melting Asphalt](https://meltingasphalt.com/)
 - [Gwern](https://www.gwern.net/index)
@@ -54,7 +53,6 @@ I do not necessarily wholly endorse or agree with everything these sources have 
 - [Clearer Thinking](https://clearerthinkingpodcast.com/)
 - [80,000 Hours](https://80000hours.org/podcast/episodes/)
 - [The Stoa](https://www.youtube.com/c/TheStoa/videos)
-- [Lex Fridman Podcast](https://www.youtube.com/c/lexfridman/videos)
 - [Rationally Speaking](http://rationallyspeakingpodcast.org/past-episodes/)
 
 ### Video-Focused Content:
@@ -65,5 +63,4 @@ I do not necessarily wholly endorse or agree with everything these sources have 
 - [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos)
 - [Veritaseum](https://www.youtube.com/c/veritasium/videos)
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown/videos)
-- [Up and Atom](https://www.youtube.com/c/UpandAtom/videos)
 - [Computerphile](https://www.youtube.com/user/Computerphile/videos) / [Numberphile](https://www.youtube.com/user/numberphile/videos)
